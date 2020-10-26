@@ -1,7 +1,9 @@
 body
 {
-    color: blue;
+    color: darkblue;
     text-align: center;
-    font-family: "Arial";
-    font-size: 18px;
+
+    font-family: "Sans-serif";
+    font-size:16px;
+
 }
